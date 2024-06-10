@@ -54,8 +54,10 @@ export function Form({ pkg }: { pkg?: string }) {
         <a href='/'>Github Release Browser</a>
       </h1>
       <p>
-        by <a href='https://github.com/patdx'>@patdx</a>
+        by <a href='https://github.com/patdx'>@patdx</a>{' '}
+        <a href='https://github.com/patdx/gh-release-browser'>(GitHub)</a>
       </p>
+      <p>View GitHub project releases sorted in actual semver order.</p>
       <form method='post' action='/'>
         <label>
           Github Repository Name
