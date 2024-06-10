@@ -1,0 +1,6 @@
+- [ ] support various release naming styles, with testing
+- [ ] auto sort by semver
+- [ ] link to filter on package of a monorepo
+- [ ] how to get more old history...
+- [ ] caching
+- [ ] better link handling, handle extra spaces inside, or github http handle/etc
